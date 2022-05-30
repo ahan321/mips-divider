@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Feb  9 23:18:07 2022
+# Process ID: 9336
+# Current directory: C:/Users/Ahan Malli/OneDrive - The Pennsylvania State University/Documents/CMPEN331/lab_2/lab_2.runs/synth_1
+# Command line: vivado.exe -log Divider.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Divider.tcl
+# Log file: C:/Users/Ahan Malli/OneDrive - The Pennsylvania State University/Documents/CMPEN331/lab_2/lab_2.runs/synth_1/Divider.vds
+# Journal file: C:/Users/Ahan Malli/OneDrive - The Pennsylvania State University/Documents/CMPEN331/lab_2/lab_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Divider.tcl -notrace
